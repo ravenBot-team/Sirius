@@ -12,7 +12,7 @@ module.exports = {
   discordUserStatus: "idle",
   customJoinMessage: "Hey %Member%!",
   fortniteStatus: "Hey",
-  fortnitePlatform": "WIN",
+  platform: "WIN",
   fortniteKairosID: "CID_028_Athena_Commando_F",
   acceptInvite: true,
   acceptFriend: true,
